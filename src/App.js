@@ -3,7 +3,13 @@ import './App.css';
 
 function App() {
   return (
-   <h2>mahesh run</h2>
+   <html>
+    <body>
+    <h1>hii</h1>
+    <img src="logo192.png" alt=""></img>
+    </body>
+   </html>
+   
   );
 }
 
